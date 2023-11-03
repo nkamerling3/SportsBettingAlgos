@@ -1,0 +1,49 @@
+Player row:
+
+
+
+
+Team row:
+<tr>
+<th aria-label="Rk" class="ranker poptip sort_default_asc show_partial_when_sorting right" data-stat="ranker" data-tip="Rank" scope="col">Rk</th>
+<th aria-label="G" class="poptip right" data-stat="game_season" data-tip="Season Game" scope="col">G</th>
+<th aria-label="Date" class="poptip sort_default_asc left" data-stat="date_game" scope="col">Date</th>
+<th aria-label=" " class="poptip center" data-stat="game_location" scope="col"> </th>
+<th aria-label="Opp" class="poptip sort_default_asc left" data-stat="opp_id" data-tip="Opponent" scope="col">Opp</th>
+<th aria-label="W/L" class="poptip center" data-stat="game_result" scope="col">W/L</th>
+<th aria-label="Points" class="poptip right" data-over-header="Team" data-stat="pts" data-tip="Points" scope="col">Tm</th>
+<th aria-label="Opponent Points" class="poptip right" data-over-header="Opponent" data-stat="opp_pts" data-tip="Opponent Points" scope="col">Opp</th>
+<th aria-label="Field Goals" class="poptip right" data-over-header="Team" data-stat="fg" data-tip="Field Goals" scope="col">FG</th>
+<th aria-label="FGA" class="poptip right" data-over-header="Team" data-stat="fga" data-tip="Field Goal Attempts" scope="col">FGA</th>
+<th aria-label="Field Goal Percentage" class="poptip right" data-over-header="Team" data-stat="fg_pct" data-tip="Field Goal Percentage" scope="col">FG%</th>
+<th aria-label="3-Point Field Goals" class="poptip right" data-over-header="Team" data-stat="fg3" data-tip="3-Point Field Goals" scope="col">3P</th>
+<th aria-label="3-Point Field Goal Attempts" class="poptip right" data-over-header="Team" data-stat="fg3a" data-tip="3-Point Field Goal Attempts" scope="col">3PA</th>
+<th aria-label="3-Point Field Goal Percentage" class="poptip right" data-over-header="Team" data-stat="fg3_pct" data-tip="3-Point Field Goal Percentage" scope="col">3P%</th>
+<th aria-label="Free Throws" class="poptip right" data-over-header="Team" data-stat="ft" data-tip="Free Throws" scope="col">FT</th>
+<th aria-label="Free Throw Attempts" class="poptip right" data-over-header="Team" data-stat="fta" data-tip="Free Throw Attempts" scope="col">FTA</th>
+<th aria-label="Free Throw Percentage" class="poptip right" data-over-header="Team" data-stat="ft_pct" data-tip="Free Throw Percentage" scope="col">FT%</th>
+<th aria-label="Offensive Rebounds" class="poptip right" data-over-header="Team" data-stat="orb" data-tip="Offensive Rebounds" scope="col">ORB</th>
+<th aria-label="Total Rebounds" class="poptip right" data-over-header="Team" data-stat="trb" data-tip="Total Rebounds" scope="col">TRB</th>
+<th aria-label="Assists" class="poptip right" data-over-header="Team" data-stat="ast" data-tip="Assists" scope="col">AST</th>
+<th aria-label="Steals" class="poptip right" data-over-header="Team" data-stat="stl" data-tip="Steals" scope="col">STL</th>
+<th aria-label="Blocks" class="poptip right" data-over-header="Team" data-stat="blk" data-tip="Blocks" scope="col">BLK</th>
+<th aria-label="Turnovers" class="poptip right" data-over-header="Team" data-stat="tov" data-tip="Turnovers" scope="col">TOV</th>
+<th aria-label="Personal Fouls" class="poptip right" data-over-header="Team" data-stat="pf" data-tip="Personal Fouls" scope="col">PF</th>
+<th aria-label=" " class="poptip center" data-stat="x" scope="col"> </th>
+<th aria-label="Opponent Field Goals" class="poptip right" data-over-header="Opponent" data-stat="opp_fg" data-tip="Opponent Field Goals" scope="col">FG</th>
+<th aria-label="Opponent Field Goal Attempts" class="poptip right" data-over-header="Opponent" data-stat="opp_fga" data-tip="Opponent Field Goal Attempts" scope="col">FGA</th>
+<th aria-label="Opponent Field Goal Percentage" class="poptip right" data-over-header="Opponent" data-stat="opp_fg_pct" data-tip="Opponent Field Goal Percentage" scope="col">FG%</th>
+<th aria-label="Opponent 3-Point Field Goals" class="poptip right" data-over-header="Opponent" data-stat="opp_fg3" data-tip="Opponent 3-Point Field Goals" scope="col">3P</th>
+<th aria-label="Opponent 3-Point Field Goal Attempts" class="poptip right" data-over-header="Opponent" data-stat="opp_fg3a" data-tip="Opponent 3-Point Field Goal Attempts" scope="col">3PA</th>
+<th aria-label="Opponent 3-Point Field Goal Percentage" class="poptip right" data-over-header="Opponent" data-stat="opp_fg3_pct" data-tip="Opponent 3-Point Field Goal Percentage" scope="col">3P%</th>
+<th aria-label="Opponent Free Throws" class="poptip right" data-over-header="Opponent" data-stat="opp_ft" data-tip="Opponent Free Throws" scope="col">FT</th>
+<th aria-label="Opponent Free Throw Attempts" class="poptip right" data-over-header="Opponent" data-stat="opp_fta" data-tip="Opponent Free Throw Attempts" scope="col">FTA</th>
+<th aria-label="Opponent Free Throw Percentage" class="poptip right" data-over-header="Opponent" data-stat="opp_ft_pct" data-tip="Opponent Free Throw Percentage" scope="col">FT%</th>
+<th aria-label="Opponent Offensive Rebounds" class="poptip right" data-over-header="Opponent" data-stat="opp_orb" data-tip="Opponent Offensive Rebounds" scope="col">ORB</th>
+<th aria-label="Opponent Total Rebounds" class="poptip right" data-over-header="Opponent" data-stat="opp_trb" data-tip="Opponent Total Rebounds" scope="col">TRB</th>
+<th aria-label="Opponent Assists" class="poptip right" data-over-header="Opponent" data-stat="opp_ast" data-tip="Opponent Assists" scope="col">AST</th>
+<th aria-label="Opponent Steals" class="poptip right" data-over-header="Opponent" data-stat="opp_stl" data-tip="Opponent Steals" scope="col">STL</th>
+<th aria-label="Opponent Blocks" class="poptip right" data-over-header="Opponent" data-stat="opp_blk" data-tip="Opponent Blocks" scope="col">BLK</th>
+<th aria-label="Opponent Turnovers" class="poptip right" data-over-header="Opponent" data-stat="opp_tov" data-tip="Opponent Turnovers" scope="col">TOV</th>
+<th aria-label="Opponent Personal Fouls" class="poptip right" data-over-header="Opponent" data-stat="opp_pf" data-tip="Opponent Personal Fouls" scope="col">PF</th>
+</tr>
